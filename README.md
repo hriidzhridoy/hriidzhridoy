@@ -1,2 +1,3 @@
 # hriidzhridoy
 
+frontend web developer

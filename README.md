@@ -15,7 +15,7 @@ Frontend Web Developer
                     </p>
 
 
-                    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=hriidzhridoy&theme=highcontrast&exclude_days=Fri%2CSat" alt="GitHub Streak" /></a>
+                 [![GitHub Streak](https://streak-stats.demolab.com?user=hriidzhridoy&theme=highcontrast&exclude_days=Fri%2CSat)](https://git.io/streak-stats)
                   
                       
                     
